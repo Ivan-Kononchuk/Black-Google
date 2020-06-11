@@ -102,11 +102,11 @@ a:visited {
 }
 
 div.sbdb{
-	color: #B0ADAA;
+	color: #B0ADAA !important;
 }
 
 div.sbdb:hover{
-	color: #00A3FFFF;
+	color: #00A3FFFF !important;
 }
 
 div.b2hzT{
@@ -455,7 +455,7 @@ a.EbH0bb{
 
 .F9PbJd {
   background-color: #000 !important;
-  border-color: #201e1a !important;
+  border-color: #544E44 !important;
 }
 
 span.hIOe2{
@@ -2284,6 +2284,81 @@ span#spchi{
 .Od5Jsd {
   color: #C8C6C5 !important;
 }
+
+.lV0vqc {
+  background-color: #000 !important;
+  box-shadow: 0 4px 6px 0 rgba(223,222,219,0.48) !important;
+}    
+
+.fNHVKc {
+  border-top-color: #4D463C !important;
+}
+
+.o44hBf {
+  color: #dedede !important;
+}
+
+.AQxKeb {
+  filter: brightness(1.3) !important;
+}
+
+.GAF4Ab {
+  filter: brightness(1.3) !important;
+}
+
+.Vwmzxb{
+  background-color: rgb(53, 53, 53) !important;
+}
+
+.Ly2md {
+  color: #B0ADAA !important;
+}
+
+.Ly2md:hover {
+  color: #00A3FFFF !important;
+}
+
+.jq2rAe {
+  background-color: #000 !important;
+  border-color: #544E44 !important;
+  box-shadow: 0 2px 4px rgba(255,255,255,0.4) !important;
+}
+
+.BR6jBc {
+  border-top-color: #544E44 !important;
+}
+
+li a.wBIdUd {
+  color: #cccccc !important;
+}
+
+li a.svpdod {
+  color: #00A3FFFF !important;
+}
+
+.PfSDnb:hover {
+  background-color: #eee !important;
+}
+
+.PfSDnb:hover {
+  background-color: #333333FF !important;
+}
+
+.kH0Dhc{
+  color: #CBC9C7 !important;
+}
+
+.gvybPb, .ErsxPb:active {
+  background-color: #333333FF !important;
+  color: #fff !important;
+}
+
+.e7RZX {
+  background-color: #000 !important;
+}
+
+
+
 
 ::-webkit-scrollbar {
 	width: 12px;
