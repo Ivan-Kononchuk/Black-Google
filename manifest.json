@@ -1,0 +1,16 @@
+{
+   "description": "Black Google",
+   "manifest_version": 2,
+   "name": "Black Google",
+   "version": "1",
+	
+   "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["https://www.google.com/", "https://www.google.com/search?*"]
+  }],
+
+   "icons": {
+      "16": "16.png",
+      "48": "48.png"
+    }
+}
