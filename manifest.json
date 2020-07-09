@@ -6,7 +6,10 @@
 	
    "content_scripts": [{
     "css": ["styles.css"],
-    "matches": ["https://www.google.com/", "https://www.google.com/search?*"]
+    "matches": ["https://www.google.com/",
+      "https://www.google.com/search?*",
+      "https://www.google.com/webhp?*",
+      "https://www.google.com/?authuser=0"]
   }],
 
    "icons": {

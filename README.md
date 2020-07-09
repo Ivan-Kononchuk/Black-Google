@@ -12,5 +12,3 @@
 
 ## Installation:
 ![alt text](https://developer.chrome.com/static/images/get_started/load_extension.png)
-
-https://github.com/Ivan-Kononchuk/Black-Google.git
