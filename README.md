@@ -9,6 +9,3 @@
 ![alt text](https://i.ibb.co/dMgBkKB/5.png)
 ![alt text](https://i.ibb.co/nzYTYP8/6.png)
 ![alt text](https://i.ibb.co/b2Nvm5v/7.png)
-
-## Installation:
-![alt text](https://developer.chrome.com/static/images/get_started/load_extension.png)
